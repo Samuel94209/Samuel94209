@@ -1,4 +1,4 @@
-## ¡Hola! Soy [Tu Nombre] 👋
+## ¡Hola! Soy Samuel 👋
 Sobre mí
 Soy estudiante y me apasiona el mundo de la tecnología, especialmente la ingeniería de sistemas y el soporte técnico. Actualmente me estoy preparando para mi graduación y me enfoco en realizar proyectos de alta calidad. Mi meta es seguir aprendiendo sobre hardware y desarrollo de software.
 
