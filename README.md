@@ -1,4 +1,13 @@
-## Hi there 👋
+## ¡Hola! Soy [Tu Nombre] 👋
+Sobre mí
+Soy estudiante y me apasiona el mundo de la tecnología, especialmente la ingeniería de sistemas y el soporte técnico. Actualmente me estoy preparando para mi graduación y me enfoco en realizar proyectos de alta calidad. Mi meta es seguir aprendiendo sobre hardware y desarrollo de software.
+
+🛠 Tecnologías que estoy aprendiendo
+Hardware: Mantenimiento preventivo de PC.
+
+Lógica: Circuitos y electrónica básica.
+
+Software: Introducción a la programación y herramientas de oficina.
 
 <!--
 **Samuel94209/Samuel94209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
